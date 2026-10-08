@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Model files — stored separately
+model/
+*.safetensors
+*.bin
+
+# Environment variables
+.env
+
+# Colab
+.ipynb_checkpoints/
